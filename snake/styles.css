@@ -30,3 +30,7 @@
     height: 5px;
     border-radius: 4px;
 }
+
+.audio {
+    display: none;
+}
