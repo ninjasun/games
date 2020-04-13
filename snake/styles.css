@@ -1,0 +1,32 @@
+
+#grid {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    flex-flow: wrap;
+}
+
+.pixel {
+    width: 5px;
+    height: 5px;
+    background-color: gainsboro;
+}
+
+#score {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.snake {
+    background-color: green;
+    width: 5px;
+    height: 5px;
+}
+
+.apple {
+    background-color: darkred;
+    width: 5px;
+    height: 5px;
+    border-radius: 4px;
+}
